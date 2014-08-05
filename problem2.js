@@ -4,7 +4,7 @@ while(c<4e6){
   a=b;
   b=c;
   if(a%2===0){
-    var d=d+a;
+    d=d+a;
   }
 }
 console.log(d);
